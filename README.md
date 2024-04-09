@@ -1,6 +1,6 @@
-Hi,I'm AnnDoris
-I'm  in Data Analytics
-I'm currently learning python and Power BI
+Hi,I'm AnnDoris,
+I'm  in Data Analytics.
+I'm currently learning python and Power BI.
 
 
 <!---
