@@ -1,6 +1,9 @@
 Hi,I'm AnnDoris,
 I'm  in Data Analytics.
+Skilled in SQL,Excel and  Tableau
 I'm currently learning python and Power BI.
+Looking forward to an entry role to
+expand my skills grow and provide valuable contribution to a company.
 
 
 <!---
